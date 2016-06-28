@@ -1,4 +1,8 @@
-# Fruit_Market
+# Fruit Market
+
+This was one of the toughest group projects we had at Prime Digital Academy as far as client-side logic goes. We were to create essentially a stock market game using fruit. The prices of the fruit would change every 15 seconds and you were to try and buy as much as you good and resell them for a higher profit within a certain time frame. 
+
+##Directions
 jQuery is great! It allows us to do so many things! You and your group will need to flex everything you know about Javascript, jQuery, and Bootstrap to tackle this challenge.
 
 The Fruit Market
